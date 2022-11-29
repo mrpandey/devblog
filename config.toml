@@ -1,0 +1,4 @@
+baseURL = 'https://dev.mrpandey.com/'
+languageCode = 'en-us'
+title = 'Dev Blog | mrpandey'
+theme = 'PaperMod'
