@@ -2,6 +2,7 @@ baseURL: "https://dev.mrpandey.com/" # if your site is in 'https', then make sur
 title: Dev Blog | mrpandey
 paginate: 10
 theme: PaperMod
+copyright: "Copyright 2022-{year} Avinash Pandey. All rights reserved."
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
