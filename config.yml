@@ -53,6 +53,9 @@ params:
   # author: ["Me", "You"] # multiple authors
   keywords: ["software", "development", "code", "blog"]
 
+  mainSections: #only these content will show on home page
+  - post
+
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
@@ -60,11 +63,12 @@ params:
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowToc: true
   # comments: false
+  hideFooter: true
   # images: ["image-in-static-dir-for-opengraph.png"] # TODO
 
   profileMode:
