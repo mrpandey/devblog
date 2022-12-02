@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dev.mrpandey.com/post/2022/restrict-access-to-class-methods-cpp/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
+    <loc>https://dev.mrpandey.com/tags/cpp/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
+    <loc>https://dev.mrpandey.com/tags/design-patterns/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
+    <loc>https://dev.mrpandey.com/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
+    <loc>https://dev.mrpandey.com/post/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
+    <loc>https://dev.mrpandey.com/tags/</loc>
+    <lastmod>2022-12-02T00:31:11+05:30</lastmod>
+  </url><url>
     <loc>https://dev.mrpandey.com/archives/</loc>
   </url><url>
     <loc>https://dev.mrpandey.com/categories/</loc>
   </url><url>
-    <loc>https://dev.mrpandey.com/</loc>
-  </url><url>
     <loc>https://dev.mrpandey.com/search/</loc>
   </url><url>
     <loc>https://dev.mrpandey.com/series/</loc>
-  </url><url>
-    <loc>https://dev.mrpandey.com/tags/</loc>
   </url>
 </urlset>

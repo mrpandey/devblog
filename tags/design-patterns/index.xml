@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dev Blog | mrpandey</title>
-    <link>https://dev.mrpandey.com/</link>
-    <description>Recent content on Dev Blog | mrpandey</description>
+    <title>design-patterns on Dev Blog | mrpandey</title>
+    <link>https://dev.mrpandey.com/tags/design-patterns/</link>
+    <description>Recent content in design-patterns on Dev Blog | mrpandey</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2022-{year} Avinash Pandey. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 00:31:11 +0530</lastBuildDate><atom:link href="https://dev.mrpandey.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 00:31:11 +0530</lastBuildDate><atom:link href="https://dev.mrpandey.com/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43;: Restrict Access To Class Methods From All But Few Outsiders</title>
       <link>https://dev.mrpandey.com/post/2022/restrict-access-to-class-methods-cpp/</link>
@@ -17,8 +17,6 @@
 One (really lazy) way is to make the method private and declare the other class a friend.
 class ParkingSlot { // omitting other private members void Park(Vehicle *vehicle); friend class ParkingLot; public: // omitting public members }; This works, but now the friend class can access all other private members.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
