@@ -1,3 +1,34 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+code, pre {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.post-content div.highlight .chroma {
+  margin-bottom: 20px;
+}
+
 .chroma {
-    background-color: unset !important;
+  background-color: unset !important;
+}
+
+.post-title {
+  margin-bottom: 4px;
+  font-size: 34px;
+}
+
+.post-content h2 {
+  font-size: 28px;
+}
+
+.post-content h3 {
+  font-size: 22px;
+}
+
+.post-content h4 {
+  font-size: 18px;
 }
